@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>43df3ba4-db00-4fdd-ae78-739f37911768</ProjectGuid>
+    <ProjectGuid>5a5b0ba7-0fea-4ce6-9b38-72cdeb9e01ef</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>GraphSharp</RootNamespace>
